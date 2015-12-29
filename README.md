@@ -1,2 +1,2 @@
-# AppTest_Sources
-**AppTest_Sources** is the folder that contains the Android &amp; iOS shared code of the **AppTest** application (see the  [libeng](https://github.com/STUDIO-Artaban/libeng) Framework).
+# AppTest
+[AppTest](https://github.com/v-pascal/AppTest) contains the source code of the **AppTest** application which is shared between Android &amp; iOS (see the [libeng](https://github.com/STUDIO-Artaban/libeng) Framework).
